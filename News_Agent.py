@@ -91,7 +91,7 @@ def main():
         3. Enjoy your ready-to-publish news article!
         """
     )
-    st.sidebar.image("https://images.unsplash.com/photo-1557683316-973673baf926?auto=format&fit=crop&w=400&q=80", caption="Stay Informed", use_column_width=True)
+    st.sidebar.image("https://images.unsplash.com/photo-1557683316-973673baf926?auto=format&fit=crop&w=400&q=80", caption="Stay Informed", use_container_width =True)
 
     # Main page styling
     st.markdown(
