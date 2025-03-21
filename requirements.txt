@@ -1,3 +1,4 @@
 streamlit
 duckduckgo_search
 nest_asyncio
+openai-agents
